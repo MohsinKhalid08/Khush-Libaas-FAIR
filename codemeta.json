@@ -1,0 +1,28 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "SoftwareSourceCode",
+    "name": "Khush Libaas \u2013 FAIR Fashion Recommendation System",
+    "description": "A FAIR-compliant machine learning pipeline that recommends traditional Pakistani clothing for various cultural events, using structured metadata and KNN classification.",
+    "codeRepository": "https://github.com/MohsinKhalid08/Khush-Libaas-FAIR",
+    "license": "https://opensource.org/licenses/MIT",
+    "programmingLanguage": "Python",
+    "runtimePlatform": "Jupyter Notebook",
+    "author": {
+        "@type": "Person",
+        "name": "Mohsin Khalid",
+        "affiliation": {
+            "@type": "Organization",
+            "name": "TU Wien"
+        }
+    },
+    "keywords": [
+        "Machine Learning",
+        "FAIR",
+        "Fashion Recommendation",
+        "Jupyter Notebook",
+        "KNN",
+        "TU Wien"
+    ],
+    "dateCreated": "2025-04-07",
+    "version": "1.0.0"
+}

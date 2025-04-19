@@ -1,75 +1,106 @@
 
-# Khush Libaas – AI-Powered Fashion Recommendation System
+# Khush Libaas – FAIR Fashion Recommendation System
 
-This repository contains all FAIR-related artifacts for the Khush Libaas experiment, created as part of the 2025 FAIR Data Science Exercise at TU Wien.
-
----
-
-## Project Overview
-Khush Libaas is a personalized fashion recommendation system for Pakistani users. It leverages structured metadata (brand, color, fabric, style, etc.) to classify traditional outfits by event type (e.g., Wedding, Eid, Formal).
-
-For Part-2, a simulated KNN-based pipeline was created, with all data and outputs made FAIR: Findable, Accessible, Interoperable, and Reusable.
+**Khush Libaas** is a personalized fashion recommendation system designed for traditional Pakistani clothing, developed as part of the FAIR Data Science course at TU Wien. This repository implements a machine learning pipeline following FAIR principles using Python and Jupyter Notebook.
 
 ---
 
-## Dataset PIDs on DBRepo (TU Wien)
+## 💡 Project Objective
 
-| Dataset Type | PID |
-|--------------|-----|
+To recommend appropriate clothing based on metadata such as:
+- Brand, Color, Size, Gender
+- Fabric Type, Style, Region Popularity
+- Event Type (e.g. Wedding, Eid, Office)
+
+The final model is trained using K-Nearest Neighbors (KNN) and evaluated on accuracy, feature importance, and classification performance.
+
+---
+
+## 📁 Repository Structure
+
+```bash
+.
+├── khush_libaas_fair.ipynb          # Final Jupyter notebook (FAIR-compliant)
+├── khush_libaas_train.csv           # Training dataset
+├── khush_libaas_valid.csv           # Validation dataset
+├── khush_libaas_test.csv            # Test dataset
+├── khush_libaas_model.pkl           # Trained model
+├── evaluation_metrics.json          # Model evaluation metrics
+├── confusion_matrix.png             # Confusion matrix visualization
+├── feature_importance_chart.png     # Feature importance bar plot
+├── recommendations.csv              # Top 5 recommended outfits
+├── LICENSE                          # MIT license
+├── codemeta.json                    # CodeMeta metadata block
+└── README.md                        # This documentation
+```
+
+---
+
+## 🚀 Usage Instructions
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/MohsinKhalid08/Khush-Libaas-FAIR.git
+   cd Khush-Libaas-FAIR
+   ```
+
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt  # (manually create if needed)
+   ```
+
+3. Run the notebook:
+   ```bash
+   jupyter notebook khush_libaas_fair.ipynb
+   ```
+
+4. View outputs:
+   - `evaluation_metrics.json`
+   - `confusion_matrix.png`
+   - `recommendations.csv`
+   - `feature_importance_chart.png`
+
+---
+
+## 🔗 Dataset PIDs (From DBRepo TU Wien)
+
+| Dataset | PID |
+|---------|-----|
 | Training | https://test.dbrepo.tuwien.ac.at/pid/9b858643-5ff0-495a-bcef-8c2e77d85713 |
 | Validation | https://test.dbrepo.tuwien.ac.at/pid/0a1a4634-38cc-486a-9e4c-746819d350b4 |
 | Test | https://test.dbrepo.tuwien.ac.at/pid/2e5a8c3f-9072-4d6d-ae5d-4d0342127cba |
 
-Each dataset contains metadata including brand, price, size, color, gender, fabric type, and regional popularity.
+---
+
+## 🧠 Technologies Used
+
+- Python (3.x)
+- Jupyter Notebook
+- scikit-learn
+- pandas, seaborn, matplotlib
 
 ---
 
-## Outputs Included
+## 📜 License
 
-| Filename | Description |
-|----------|-------------|
-| khush_libaas_model.pkl | Trained KNN model file (simulated on synthetic data) |
-| evaluation_metrics.json | Evaluation metrics (accuracy, precision, recall, F1) |
-| confusion_matrix.png | Visualization of true vs predicted event types |
-| feature_importance_chart.png | Frequency-based importance of encoded features |
-| recommendations.csv | Top-5 recommended clothing samples with scores |
+This project is licensed under the MIT License. See [LICENSE](./LICENSE) for details.
 
 ---
 
-## Tools & Technologies
+## 👤 Author
 
-- Language: Python
-- ML Model: K-Nearest Neighbors (KNN)
-- Libraries: scikit-learn, pandas, matplotlib, seaborn
-- Notebook: Jupyter (notebook included in GitHub submission)
-
----
-
-## FAIR Compliance
-
-This project complies with FAIR principles via:
-
-- Data deposition on DBRepo (TU Wien)
-- Output metadata uploaded to TUW Research Data
-- Metadata models used: FAIR4ML, CodeMeta, Croissant
-- All datasets have valid PIDs and are cited in the notebook
+**Mohsin Khalid**  
+TU Wien – Student ID: 12443164  
+GitHub: [@MohsinKhalid08](https://github.com/MohsinKhalid08)
 
 ---
 
-## Licensing
+## ✅ FAIR Compliance Highlights
 
-- Code & Scripts: MIT License
-- Data & Visuals: Creative Commons Attribution 4.0 International (CC BY 4.0)
+- ✅ Dataset published with PIDs via DBRepo
+- ✅ Outputs published to TUWRD (DOI: [10.70124/r6mjm-2zx16](https://doi.org/10.70124/r6mjm-2zx16))
+- ✅ CodeMeta metadata included
+- ✅ Data Management Plan (DMP) submitted via Zenodo
 
----
+For questions or contributions, feel free to open an issue or fork the repo.
 
-## Author
-
-Mohsin Khalid  
-TU Wien — Matriculation No: 12443164
-
----
-
-## Contact
-
-For questions, contact via TU Wien email.
