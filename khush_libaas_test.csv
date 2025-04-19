@@ -1,0 +1,19 @@
+product_id,brand,price,size,color,gender,event_type,style,fabric_type,region_popularity
+2003,Sana Safinaz,9206,XL,Beige,Male,Office,Chiffon,Silk,Balochistan
+2015,AlKaram,7384,L,Black,Female,Party,Lawn,Chiffon,Punjab
+2021,Ethnic,15239,XL,White,Male,Eid,Chiffon,Net,Balochistan
+2030,Sana Safinaz,13885,L,Beige,Male,Wedding,Velvet,Net,Punjab
+2033,Khaadi,9955,L,Pink,Male,Office,Embroidered,Khaddar,KPK
+2049,Khaadi,4827,XL,Red,Male,Casual,Kurta Pajama,Khaddar,Punjab
+2052,Bonanza,11430,M,Yellow,Male,Casual,Cotton,Lawn,Gilgit
+2059,Khaadi,6730,XL,Beige,Male,Wedding,Shalwar Kameez,Linen,KPK
+2072,Junaid Jamshed,15077,XL,Black,Male,Party,Kurta Pajama,Khaddar,Punjab
+2076,Bonanza,15149,S,Red,Female,Religious,Cotton,Khaddar,Gilgit
+2087,AlKaram,3130,XS,Maroon,Female,Party,Plain,Net,KPK
+2088,Ethnic,12974,XS,Pink,Female,Party,Silk,Chiffon,AJK
+2093,AlKaram,4011,S,Blue,Male,Casual,Silk,Linen,Balochistan
+2094,GulAhmed,15443,M,Maroon,Female,Office,Velvet,Linen,Gilgit
+2102,Junaid Jamshed,6959,XL,Red,Female,Formal,Kurta Pajama,Khaddar,Punjab
+2103,AlKaram,3585,L,Black,Male,Formal,Shalwar Kameez,Cotton,Punjab
+2109,Junaid Jamshed,7816,S,Pink,Female,Formal,Shalwar Kameez,Silk,Balochistan
+2113,AlKaram,15275,XL,Pink,Male,Office,Embroidered,Chiffon,Gilgit

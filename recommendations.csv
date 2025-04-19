@@ -1,0 +1,6 @@
+product_id,brand,price,size,color,gender,event_type,style,fabric_type,region_popularity,score
+2094,GulAhmed,15443,M,Maroon,Female,Office,Velvet,Linen,Gilgit,0.98
+2093,AlKaram,4011,S,Blue,Male,Casual,Silk,Linen,Balochistan,0.91
+2052,Bonanza,11430,M,Yellow,Male,Casual,Cotton,Lawn,Gilgit,0.89
+2087,AlKaram,3130,XS,Maroon,Female,Party,Plain,Net,KPK,0.86
+2088,Ethnic,12974,XS,Pink,Female,Party,Silk,Chiffon,AJK,0.8

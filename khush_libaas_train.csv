@@ -1,0 +1,85 @@
+product_id,brand,price,size,color,gender,event_type,style,fabric_type,region_popularity
+2045,Bonanza,17512,XL,White,Male,Religious,Printed,Silk,Sindh
+2048,AlKaram,15131,XS,Blue,Male,Party,Lawn,Net,KPK
+2005,Bonanza,3227,XS,White,Male,Wedding,Silk,Cotton,Sindh
+2056,Junaid Jamshed,7976,XS,Blue,Female,Eid,Embroidered,Lawn,AJK
+2027,AlKaram,14973,XS,Green,Male,Wedding,Plain,Net,Gilgit
+2065,GulAhmed,4504,XL,Red,Female,Wedding,Cotton,Khaddar,AJK
+2074,Sana Safinaz,7055,XS,Black,Female,Formal,Chiffon,Net,AJK
+2011,Junaid Jamshed,15186,XS,Pink,Female,Casual,Silk,Khaddar,Balochistan
+2041,Ethnic,11114,M,Maroon,Male,Wedding,Printed,Silk,AJK
+2108,GulAhmed,9320,S,Beige,Female,Wedding,Embroidered,Cotton,AJK
+2019,GulAhmed,3654,M,Pink,Male,Party,Printed,Cotton,Gilgit
+2063,GulAhmed,3198,XS,Pink,Male,Office,Embroidered,Cotton,KPK
+2012,Bonanza,13866,L,Beige,Male,Eid,Kurta Pajama,Cotton,Gilgit
+2037,GulAhmed,7574,L,Black,Male,Religious,Printed,Chiffon,AJK
+2090,Junaid Jamshed,10539,M,White,Female,Wedding,Printed,Net,KPK
+2092,GulAhmed,16908,S,Beige,Male,Wedding,Velvet,Silk,Sindh
+2110,Sana Safinaz,15457,M,White,Female,Office,Lawn,Cotton,AJK
+2001,Junaid Jamshed,17648,L,White,Female,Religious,Plain,Silk,Balochistan
+2089,Sana Safinaz,16287,XS,Blue,Female,Office,Silk,Linen,AJK
+2105,Ethnic,5936,L,Green,Male,Party,Kurta Pajama,Lawn,Gilgit
+2066,Sana Safinaz,15008,XS,Blue,Male,Wedding,Silk,Chiffon,Sindh
+2046,AlKaram,12452,XS,White,Male,Eid,Plain,Net,Balochistan
+2032,Khaadi,17134,XL,Red,Male,Religious,Kurta Pajama,Silk,AJK
+2071,AlKaram,15755,L,Red,Male,Party,Plain,Chiffon,Sindh
+2043,Junaid Jamshed,12121,M,Red,Male,Eid,Printed,Lawn,KPK
+2013,Bonanza,7092,M,Blue,Male,Party,Embroidered,Net,KPK
+2016,Bonanza,9592,L,Red,Male,Office,Embroidered,Silk,AJK
+2115,AlKaram,17571,S,Black,Male,Eid,Lawn,Silk,Sindh
+2077,Ethnic,6991,XS,Beige,Female,Casual,Lawn,Cotton,AJK
+2098,Ethnic,12611,L,White,Female,Casual,Shalwar Kameez,Khaddar,KPK
+2025,Sana Safinaz,16148,M,Red,Male,Formal,Velvet,Linen,Balochistan
+2079,AlKaram,1402,S,Black,Male,Party,Lawn,Khaddar,Punjab
+2023,GulAhmed,10962,S,Maroon,Male,Eid,Shalwar Kameez,Net,Gilgit
+2097,AlKaram,9538,XL,Blue,Male,Party,Kurta Pajama,Net,AJK
+2057,GulAhmed,10674,L,Black,Female,Eid,Silk,Chiffon,Balochistan
+2111,GulAhmed,15686,XS,Red,Female,Wedding,Embroidered,Chiffon,Sindh
+2031,AlKaram,1406,XS,White,Female,Wedding,Silk,Khaddar,KPK
+2054,Sana Safinaz,12694,M,Blue,Male,Eid,Shalwar Kameez,Cotton,Punjab
+2119,Junaid Jamshed,6623,M,Blue,Male,Party,Chiffon,Linen,Gilgit
+2010,Bonanza,1591,L,Black,Male,Religious,Embroidered,Net,KPK
+2034,Bonanza,13583,M,White,Female,Office,Chiffon,Linen,AJK
+2026,Khaadi,9310,XL,Red,Female,Eid,Velvet,Silk,Punjab
+2070,Junaid Jamshed,5937,XS,Red,Female,Eid,Printed,Khaddar,Gilgit
+2029,Ethnic,8110,XS,Maroon,Male,Office,Embroidered,Lawn,Punjab
+2099,Junaid Jamshed,4111,S,Maroon,Female,Office,Printed,Khaddar,Balochistan
+2086,GulAhmed,1397,S,Black,Male,Formal,Plain,Cotton,KPK
+2006,Sana Safinaz,3895,XS,Pink,Female,Wedding,Silk,Cotton,AJK
+2091,GulAhmed,12789,XL,Green,Male,Religious,Shalwar Kameez,Khaddar,KPK
+2069,AlKaram,2836,L,Black,Female,Party,Silk,Chiffon,Punjab
+2040,Junaid Jamshed,17398,XL,Yellow,Female,Office,Velvet,Linen,Sindh
+2050,Bonanza,17357,L,White,Male,Eid,Velvet,Silk,AJK
+2036,Junaid Jamshed,8774,XS,Pink,Male,Party,Silk,Lawn,Gilgit
+2017,Ethnic,14267,M,Beige,Female,Party,Embroidered,Silk,Sindh
+2067,GulAhmed,7785,XL,Beige,Female,Party,Printed,Lawn,AJK
+2035,Bonanza,16020,XS,Yellow,Male,Wedding,Silk,Lawn,Punjab
+2114,AlKaram,10408,S,Maroon,Male,Religious,Plain,Khaddar,KPK
+2008,Junaid Jamshed,6458,M,Yellow,Male,Religious,Shalwar Kameez,Cotton,Gilgit
+2044,Ethnic,10989,S,Blue,Female,Casual,Printed,Chiffon,Punjab
+2073,AlKaram,2054,XL,White,Male,Religious,Chiffon,Khaddar,Sindh
+2068,AlKaram,12849,M,Green,Male,Eid,Velvet,Lawn,Balochistan
+2084,Ethnic,9204,S,Beige,Male,Religious,Printed,Net,AJK
+2028,GulAhmed,1702,L,Yellow,Female,Casual,Printed,Lawn,Punjab
+2020,AlKaram,13037,XS,White,Female,Formal,Cotton,Cotton,Sindh
+2096,Ethnic,3186,XS,Maroon,Male,Formal,Silk,Linen,Balochistan
+2101,Ethnic,9880,L,Black,Male,Religious,Shalwar Kameez,Khaddar,AJK
+2009,GulAhmed,7936,M,Blue,Male,Party,Plain,Net,AJK
+2014,Sana Safinaz,4761,XS,Green,Female,Party,Plain,Linen,KPK
+2085,Ethnic,8977,S,Green,Male,Casual,Shalwar Kameez,Cotton,Gilgit
+2004,Junaid Jamshed,3768,M,White,Male,Eid,Silk,Khaddar,Punjab
+2018,Sana Safinaz,16465,XS,Black,Female,Religious,Cotton,Khaddar,Sindh
+2039,AlKaram,2259,M,White,Female,Formal,Chiffon,Lawn,Balochistan
+2118,Sana Safinaz,3249,S,Red,Male,Office,Shalwar Kameez,Cotton,AJK
+2007,Sana Safinaz,16622,M,Blue,Female,Wedding,Shalwar Kameez,Net,AJK
+2078,Khaadi,6131,S,Green,Male,Formal,Cotton,Khaddar,Punjab
+2112,Khaadi,17846,S,Pink,Female,Party,Cotton,Linen,Sindh
+2095,GulAhmed,7746,S,White,Female,Wedding,Embroidered,Cotton,Punjab
+2055,Khaadi,2506,XS,Green,Female,Casual,Plain,Silk,Gilgit
+2051,Sana Safinaz,11373,XL,Pink,Female,Eid,Embroidered,Net,Balochistan
+2081,AlKaram,13888,S,Black,Female,Wedding,Kurta Pajama,Net,Punjab
+2047,Junaid Jamshed,3893,L,Pink,Male,Eid,Printed,Linen,KPK
+2082,GulAhmed,5589,S,Pink,Male,Casual,Plain,Net,Punjab
+2062,GulAhmed,1863,L,Beige,Female,Religious,Shalwar Kameez,Cotton,Gilgit
+2117,Khaadi,14368,L,Red,Male,Party,Velvet,Linen,AJK
+2080,GulAhmed,12647,M,Green,Female,Office,Cotton,Khaddar,Punjab

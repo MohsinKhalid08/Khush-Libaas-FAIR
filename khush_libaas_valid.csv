@@ -1,0 +1,19 @@
+product_id,brand,price,size,color,gender,event_type,style,fabric_type,region_popularity
+2120,Sana Safinaz,15789,L,Maroon,Female,Religious,Cotton,Lawn,Balochistan
+2058,AlKaram,8726,L,Red,Male,Party,Lawn,Khaddar,AJK
+2100,Junaid Jamshed,2934,XS,Beige,Male,Wedding,Embroidered,Lawn,Gilgit
+2106,Sana Safinaz,3002,M,Red,Female,Wedding,Velvet,Silk,KPK
+2061,Ethnic,14745,M,Blue,Male,Formal,Embroidered,Silk,Gilgit
+2107,Sana Safinaz,9355,L,Pink,Female,Casual,Cotton,Net,Punjab
+2083,Ethnic,3527,M,Red,Male,Casual,Plain,Lawn,Sindh
+2053,Junaid Jamshed,16907,L,White,Female,Casual,Chiffon,Linen,KPK
+2038,AlKaram,2878,M,Black,Male,Religious,Plain,Linen,Balochistan
+2064,Khaadi,9194,XL,Green,Female,Wedding,Lawn,Chiffon,KPK
+2042,Ethnic,12017,M,White,Female,Formal,Velvet,Cotton,Gilgit
+2116,Sana Safinaz,13035,XS,Maroon,Male,Wedding,Cotton,Khaddar,Punjab
+2002,AlKaram,17416,XL,Red,Male,Wedding,Silk,Chiffon,Punjab
+2022,Ethnic,12165,S,Pink,Female,Party,Shalwar Kameez,Lawn,Sindh
+2104,Khaadi,12311,XS,Blue,Male,Wedding,Kurta Pajama,Khaddar,Gilgit
+2060,AlKaram,4948,XL,White,Female,Eid,Cotton,Silk,Gilgit
+2075,Junaid Jamshed,8592,M,Red,Male,Party,Velvet,Linen,KPK
+2024,AlKaram,6256,S,White,Male,Formal,Printed,Chiffon,Sindh
