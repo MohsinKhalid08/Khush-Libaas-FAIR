@@ -91,6 +91,7 @@ This project is licensed under the MIT License. See [LICENSE](./LICENSE) for det
 
 **Mohsin Khalid**  
 TU Wien – Student ID: 12443164  
+ORCID: https://orcid.org/0009-0000-9775-1879
 GitHub: [@MohsinKhalid08](https://github.com/MohsinKhalid08)
 
 ---
